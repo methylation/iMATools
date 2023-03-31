@@ -12,7 +12,10 @@ iMATools including eight subtools:
 
 
 Input command name to get usage for each subtool.
+
 ![workflow](https://github.com/methylation/iMATools/blob/main/imgs/iMATools.png "foo")
+
 iMATools provides a exploration of DNA methylation data at different data levels:
+
 ![Analysis at different level](https://github.com/methylation/iMATools/blob/main/imgs/diff_level.png "foo")
 
