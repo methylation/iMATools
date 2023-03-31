@@ -9,6 +9,8 @@ iMATools including eight subtools:
 * readvisual: visualizes the methylation status of CpG sites on reads
 * bedmethy: calculates a matrix of methylation levels for predefined regions
 * bedarray: calculates the methylation level matrix (beta value) of a predefined region
+
+
 Input command name to get usage for each subtool.
 ![workflow](https://github.com/methylation/iMATools/blob/main/imgs/iMATools.png "foo")
 iMATools provides a exploration of DNA methylation data at different data levels:
