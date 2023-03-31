@@ -395,4 +395,3 @@ sub call_time{
 	
 	return "[$hour:$min:$sec $months[$mon],$mday] ".("   " x $tab_nums);
 }
-
