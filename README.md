@@ -10,7 +10,7 @@ iMATools including eight subtools:
 * bedmethy: calculates a matrix of methylation levels for predefined regions
 * bedarray: calculates the methylation level matrix (beta value) of a predefined region
 
-
+All these tools could be used directly without install.
 Input command name to get usage for each subtool.
 
 ![workflow](https://github.com/methylation/iMATools/blob/main/imgs/iMATools.png "foo")
